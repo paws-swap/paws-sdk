@@ -1,16 +1,16 @@
 {
     "name": "@pawsswap-libs/sdk",
     "license": "MIT",
-    "version": "2.2.0",
+    "version": "1.0.1",
     "description": "🛠 An SDK for building applications on top of pawsswap.",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
         "dist"
     ],
-    "repository": "https://github.com/pawsswap/pawseswap-sdk.git",
+    "repository": "https://github.com/paws-swap/pawsswap-sdk.git",
     "keywords": [
-        "pancakeswap",
+        "pawsswap",
         "ethereum"
     ],
     "module": "dist/sdk.esm.js",
